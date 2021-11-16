@@ -1,1 +1,3 @@
 Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+
+Based on https://github.com/aws/amazon-sagemaker-examples/blob/master/autopilot/autopilot_customer_churn_high_level_with_evaluation.ipynb
